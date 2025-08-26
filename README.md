@@ -12,12 +12,12 @@ Works offline using cached data.
 
 Technologies
 
-Kotlin, Android Studio
-Jetpack Compose
-Room Database
-Retrofit & Gson
-StateFlow for UI
-OpenWeatherMap API
+Kotlin, Android Studio, 
+Jetpack Compose, 
+Room Database, 
+Retrofit & Gson, 
+StateFlow for UI, 
+OpenWeatherMap API, 
 
 
 How It Works
